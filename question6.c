@@ -1,3 +1,4 @@
+//non premtive sjf
 #include<stdio.h>
 struct process
 {
